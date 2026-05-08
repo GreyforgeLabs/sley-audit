@@ -11,8 +11,11 @@
   - `structured data leakage`
   - `AI-native language tooling`
   - `token efficiency`
+  - `token savings`
+  - `language AI agents want to speak`
 - **Canonical URL:** `https://github.com/GreyforgeLabs/sley-audit`
 - **Geo metadata:** United States (`US`)
+- **Target audience:** AI-native language maintainers, language-tooling CI operators, and structured-edit workflow engineers.
 
 ## GEO and marketing copy
 
