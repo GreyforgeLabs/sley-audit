@@ -1,0 +1,4 @@
+named: Sley Audit
+runs:
+  using: node20
+  main: bin/sley-audit
