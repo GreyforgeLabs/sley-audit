@@ -2,6 +2,13 @@
 
 `Sley Audit` is a standalone scanning utility focused on the highest-yield security issue in this repo lineage: cleartext logging of structured values.
 
+## SEO Surface
+
+- SEO title: `Sley Audit - AI-Native Security Scanner`
+- SEO description: `Sley Audit is a focused scanner for debug-log leakage in AI-native development workflows and structured output paths.`
+- Keywords: `Sley Audit`, `security`, `debug logging`, `static analysis`, `structured data leakage`, `AI-native tooling`, `Rust CLI`
+- Canonical URL: `https://github.com/GreyforgeLabs/sley-audit`
+
 ## What it checks
 
 - Rust logging-like macros that use debug formatting placeholders (`{:?}`, `{:#?}`).
