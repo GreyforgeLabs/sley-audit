@@ -8,6 +8,10 @@
 - SEO description: `Sley Audit is a focused scanner for debug-log leakage in AI-native development workflows and structured output paths.`
 - Keywords: `Sley Audit`, `security`, `debug logging`, `static analysis`, `structured data leakage`, `AI-native tooling`, `Rust CLI`
 - Canonical URL: `https://github.com/GreyforgeLabs/sley-audit`
+- Geo metadata:
+  - Region: United States (US)
+  - Language: English
+  - Audience: AI-native language tooling teams and operators
 
 ## What it checks
 
