@@ -1,3 +1,16 @@
+# Migrated to Sley Legacy
+
+> [!IMPORTANT]
+> This Sley 1.x ecosystem repository is preserved as a historical tombstone.
+> Development moved to [`research/audit/` in Sley Legacy](https://github.com/GreyforgeLabs/sley-legacy/tree/public/research/audit).
+> Existing history, refs, and the repository-hosted Action path remain here for
+> compatibility. Active Sley development is the intentionally incompatible
+> machine-native 2.x lineage at
+> [`GreyforgeLabs/sley`](https://github.com/GreyforgeLabs/sley). This scanner is
+> historical Sley 1.x ecosystem material, not native Sley 2 tooling.
+
+---
+
 # Sley Audit
 
 `Sley Audit` is a standalone scanning utility focused on the highest-yield security issue in this repo lineage: cleartext logging of structured values.
